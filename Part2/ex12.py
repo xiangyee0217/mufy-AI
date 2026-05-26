@@ -1,0 +1,1 @@
+print(calculate (10, '+', 10))
